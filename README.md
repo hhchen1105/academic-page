@@ -1,3 +1,3 @@
 # academic-page
 
-Run make.sh to generate the html files.
+Re-direct to NCU's personal webpage.
